@@ -2,6 +2,14 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Retrofit](https://img.shields.io/badge/Retrofit-SQUARE-%23F15A2A?style=for-the-badge&logo=square)
 
+  **Lancez l'Application** :
+    Compilez et exécutez l'application sur un émulateur ou un appareil Android. Assurez-vous que votre appareil peut accéder à l'adresse réseau de votre serveur.
+
+## 📸 Demonstration
+
+https://github.com/user-attachments/assets/6ff17e13-a475-4403-a395-7d0402b33cea
+
+---
 Une application Android moderne servant de client pour une API REST de gestion de comptes bancaires. Ce projet démontre l'utilisation de **Retrofit** pour la communication réseau et la capacité de parser dynamiquement des données aux formats **JSON** et **XML**.
 
 ## ✨ Fonctionnalités
@@ -18,7 +26,14 @@ Les interfaces illustrent les principales fonctionnalités de l'application, ave
 <img width="428" height="951" alt="Screenshot 2025-11-10 211631" src="https://github.com/user-attachments/assets/82c6a55d-3b7a-447f-a2d5-6315e1ec9c25" />
 
 
+
+
+
 <img width="485" height="554" alt="Screenshot 2025-11-10 211949" src="https://github.com/user-attachments/assets/7042ed57-b757-476f-9328-941d9618ab5e" />
+
+
+
+
 
 
 <img width="484" height="552" alt="Screenshot 2025-11-10 211942" src="https://github.com/user-attachments/assets/be4ae499-810b-401d-879b-0c07b589e318" />
@@ -57,12 +72,8 @@ Pour exécuter ce projet sur votre machine, suivez ces étapes :
     private static final String BASE_URL = "http://192.168.x.x:8082/";
     ```
 
-4.  **Lancez l'Application** :
-    Compilez et exécutez l'application sur un émulateur ou un appareil Android. Assurez-vous que votre appareil peut accéder à l'adresse réseau de votre serveur.
+    
+**AUTEUR**:
+Ghali EL ASRI 
+@ghaliel
 
-## 📸 Demonstration
-
-https://github.com/user-attachments/assets/6ff17e13-a475-4403-a395-7d0402b33cea
-
-
----
