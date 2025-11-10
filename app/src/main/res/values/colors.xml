@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Palette de couleurs de base -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Nouvelle palette pour le design cible -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#BB86FC</color>
+    <color name="colorBackground">#F3E5F5</color> <!-- Fond d'écran violet clair -->
+
+    <!-- Couleurs spécifiques aux éléments -->
+    <color name="card_background">#7E57C2</color> <!-- Fond des cartes -->
+    <color name="delete_button_color">#EF5350</color> <!-- Rouge pour le bouton supprimer -->
+    <color name="edit_button_color">#81C784</color> <!-- Vert pour le bouton modifier (suggestion) -->
+    <color name="dialog_background">#FFFFFF</color>
+
+    <!-- Couleurs de texte -->
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_on_secondary">#BDBDBD</color> <!-- Gris clair pour les sous-titres -->
+
+</resources>
